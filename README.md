@@ -2,7 +2,7 @@
 
 本项目旨在通过深度学习模型检测中文虚假新闻。
 
-![](E:\git项目\Fake-News-Detection\images\dection.png)
+![](./Fake-News-Detection/images/dection.png)
 
 *   **`model.py`**: 定义了核心的深度学习模型 `CNNLSTMTransformerClassifier`。该模型是一个混合架构，具体包含：
     *   **词嵌入层 (Embedding Layer)**: 将文本词汇转换为向量表示。
@@ -33,7 +33,7 @@
 
 最终总榜排名在人工智能赛道取得了第26名的成绩，f1分数为0.985左右
 
-![](E:\git项目\Fake-News-Detection\images\result.png)
+![](./images/result.png)
 
 
 
